@@ -27,7 +27,7 @@ body{
 }
 
 .image{
-    background-image: url("../images/avatar-jessica.jpeg");
+    background-image: url("avatar-jessica.jpeg");
     width: 80px;
     height: 80px;
     background-size: cover;
